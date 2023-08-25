@@ -4,6 +4,8 @@ Pasteur Labs architecture — 1-week home assessment :)
 
 Task description: <https://drive.google.com/file/d/1_1gh4IgMbkRySBGwKTAzYRmk7g-6Zs6Z/view?usp=sharing>
 
+*Coding challenge is here:* <https://github.com/Artod/pl/>
+
 ### Legends
 
 -   Platform — Internal Developer Platform (IDP)
